@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/tao/" . ".emacs.d/")
+ ("/home/tao/.emacs.d/" . "elisp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/tao/.emacs.d/"
+ "/home/tao/projects/simulator/tests/2018-08-15__09_10_06/"
+ "/home/tao/.emacs.d/elisp/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "agent.out"
+ "file-tree.el"
+ "simplecalc.el"
+ "notes-mode.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/tao/.emacs.d/" (23409 58654 1994 979000) "ido.last" "elisp/" "./" "init-with-many-pther-things" "../" "init.el" "auto-save-list/")
+
+ ("/home/tao/" (23412 20866 347377 844000) ".wget-hsts" ".dmrc" ".themes/" "lib/" ".saves/" "Downloads/" "Public/" ".mozilla/" ".m2/" ".pki/" ".exrc" ".gconf/" ".profile" ".Xauthority" "Music/" ".swt/" "./" ".p2/" ".xsession-errors" ".sudo_as_admin_successful" "../" ".eclipse/" "Videos/" ".bash_history" "hazelcast-mancenter3.10/" ".inputrc" "projects/" ".icons/" ".ICEauthority" ".dbus/" ".byobu/" ".npm/" ".emacs.d/" "Documents/" ".bash_logout" ".oracle_jre_usage/" ".config/" ".local/" ".bashrc" ".cache/" ".ssh/" "Pictures/" "Desktop/" "Templates/" ".xsession-errors.old")
+
+ ("/home/tao/projects/simulator/tests/2018-08-15__09_10_06/C_A1_W1-localhost-member/" (23412 20611 315399 96000) "worker.err" "worker.pid" "./" "worker.out" "../" "performance.csv" "worker.sh" "log4j.xml" "hazelcast.xml" "worker.log" "verbosegc.log")
+
+ ("/home/tao/projects/simulator/tests/2018-08-15__09_10_06/" (23412 20611 343399 95000) "C_A1_W3-localhost-javaclient/" "C_A1_W4-localhost-javaclient/" "lib/" "C_A1_W5-localhost-javaclient/" "agent.out" "C_A1_W2-localhost-member/" "./" "agent.err" "../" "C_A1_W6-localhost-javaclient/" "C_A1_W1-localhost-member/")
+
+ ("/home/tao/.emacs.d/elisp/" (23409 52445 282687 416000) "./" "notes-mode.el" "../" "file-tree.el" "simple-calc.el")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
